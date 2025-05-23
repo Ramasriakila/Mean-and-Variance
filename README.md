@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f2219fef-fc71-464a-82d6-c0b0da9740b8)#  Mean and variance of a discrete  distribution
+#  Mean and variance of a discrete  distribution
 
 
 # Aim : 
